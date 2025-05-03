@@ -25,4 +25,6 @@ We have performed simulations to evaluate the performance of the DUMB EFFICIENT 
 Conclusion
 The DUMB EFFICIENT algorithm is a simple and efficient approach to solving the Traveling Salesman Problem. It is based on a hierarchical modeling and uses clustering and optimization techniques to obtain high-quality results.
 
-_Note_ Alpha version, détails to come. Further détails on résolution methods, implémentation proposal, explanatory details of simulations, and extended comparison to other algorithms will be added in future versions.
+References
+- Ester, M., Kriegel, H. P., Sander, J., & Xu, X. (1996). A density-based algorithm for discovering clusters in large spatial databases with noise. Proceedings of the 2nd International Conference on Knowledge Discovery and Data Mining, 226-231.
+- Kaufman, L., & Rousseeuw, P. J. (1990). Finding groups in data: An introduction to cluster analysis. Wiley-Interscience.
