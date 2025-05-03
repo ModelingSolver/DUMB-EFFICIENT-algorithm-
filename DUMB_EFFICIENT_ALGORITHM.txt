@@ -21,7 +21,12 @@ Simulation Results
 We have performed simulations to evaluate the performance of the DUMB EFFICIENT algorithm. The results show that:
 - For problems of size between 1000 and 5000 cities, the DUMB EFFICIENT algorithm obtains high-quality results, with an accuracy greater than 90%.
 - The time complexity of the algorithm is linear, making it very efficient for large-scale problems.
+Comparison with other algorithms*
 
+We have also compared the performance of the DUMB EFFICIENT algorithm with that of the Lin-Kernighan-Helsgaun (LKH) algorithm, which is considered one of the best algorithms for solving TSP. The results show that:
+
+- The DUMB EFFICIENT algorithm obtains results of similar quality to those of LKH for problems of size between 1000 and 5000 cities.
+- However, the DUMB EFFICIENT algorithm is faster than LKH for large-scale problems.
 Conclusion
 The DUMB EFFICIENT algorithm is a simple and efficient approach to solving the Traveling Salesman Problem. It is based on a hierarchical modeling and uses clustering and optimization techniques to obtain high-quality results.
 
