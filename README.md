@@ -38,3 +38,5 @@ The DUMB EFFICIENT algorithm is a simple and efficient approach to solving the T
 References
 - Ester, M., Kriegel, H. P., Sander, J., & Xu, X. (1996). A density-based algorithm for discovering clusters in large spatial databases with noise. Proceedings of the 2nd International Conference on Knowledge Discovery and Data Mining, 226-231.
 - Kaufman, L., & Rousseeuw, P. J. (1990). Finding groups in data: An introduction to cluster analysis. Wiley-Interscience.
+
+NB: When running the program, you will be prompted to enter the parameters `max_cluster_size`, `min_cluster_size`, `Epsilon`, and `num_cities`. For reference, the initial development was based on `max_cluster_size = 20` and `Epsilon = 0.5`, but you can experiment with different values for all parameters to optimize the results.
