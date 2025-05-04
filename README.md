@@ -17,10 +17,9 @@ The DUMB EFFICIENT algorithm works as follows:
 2. Create a first cluster of density zones of cities with a maximum size of 20 (C1).
 3. Divide the density clusters into sub-clusters of maximum size 20 (C2's).
 4. Repeat step 3 until clusters of maximum size 20 (Cx's) are obtained.
-5. Optimize the number of elements for each group of clusters.
-6. Determine the medoid points using PAM.
-7. Join the clusters using the medoid points.
-8. Solve each cluster using the nearest neighbor algorithm.
+5. Determine the medoid points using PAM.
+6. Join the clusters using the medoid points.
+7. Solve each cluster using the nearest neighbor algorithm.
 
 Simulation Results
 We have performed simulations to evaluate the performance of the DUMB EFFICIENT algorithm. The results show that:
