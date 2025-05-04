@@ -95,4 +95,3 @@ if __name__ == "__main__":
     road, total_distance = dumb_efficient(cities, eps, min_samples, max_cluster_size)
     print("Road:", road)
     print("Total distance:", total_distance)
-```
