@@ -1,6 +1,16 @@
 #DUMB EFFICIENT: A Density-Driven Hierarchical Model for Solving the Traveling Salesman Problem
 (Descending Tree Resolution with Density Polarization – Alpha Version)
-Abstract   https://www.youtube.com/watch?v=SC5CX8drAtU
+
+## 🎥 Visual Introduction to TSP
+
+Want a quick and powerful illustration of why TSP is so hard — and why structure matters?
+
+▶️ [Watch this video](https://www.youtube.com/watch?v=SC5CX8drAtU)  
+*A brilliant visual explanation of the Traveling Salesman Problem by 3Blue1Brown.*
+
+It shows why smart decomposition, like the one used in **DUMB EFFICIENT**, matters for solving large-scale TSP instances.
+
+Abstract   
 
 We introduce DUMB EFFICIENT, a simple yet theoretically grounded approach for solving large-scale instances of the Traveling Salesman Problem (TSP). The method decomposes the global problem using a hierarchy of density-based clusters, each constrained in size, and solves sub-tours using local heuristics. Central to the method is the modeling assumption that cities exhibit spatial coherence, which enables recursive decomposition and information compression. Medoids are used to represent clusters during global tour assembly, resulting in a hybrid solution architecture that balances computational tractability with high solution quality. Initial experiments suggest that the algorithm performs comparably to state-of-the-art heuristics while scaling more efficiently on large datasets.
 1. Introduction
