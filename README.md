@@ -1,6 +1,14 @@
 #DUMB EFFICIENT: A Density-Driven Hierarchical Model for Solving the Traveling Salesman Problem
 (Descending Tree Resolution with Density Polarization – Alpha Version)
 
+I got back into computing after 37 years away from the keyboard. I took on this TSP project just two months after my return, treating it as a puzzle to see if I still had some "muscle memory" left from my childhood...
+
+The code is far from optimized, but the spirit is there! Feel free to take it, optimize it, and adapt it as you wish.
+
+Peace and much love to everyone!
+
+[[Link to the HTML simulation](https://www.youtube.com/watch?v=9zauZPKep9Q)]
+
 ## 🎥 Visual Introduction to TSP
 
 Want a quick and powerful illustration of why TSP is so hard — and why structure matters?
